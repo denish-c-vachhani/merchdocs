@@ -2,7 +2,7 @@
 title: Services
 ---
 
-The Services configuration settings can be found in **System** > **Configuration** > **Services**.
+The Services configuration settings can be found in **System** > Configuration > **Services**.
 
 ![Services configuration settings]({% link images/images/config-services.png %}){: .zoom}
 *Services configuration settings*
